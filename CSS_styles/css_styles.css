@@ -2,3 +2,12 @@ body{
     text-align: center;
     color: Orange;
 }
+
+
+.container{
+background-color: deeppink;
+align-items: center;
+align-self: center;
+padding: 10rem;
+border: solid 30px blueviolet;
+}
